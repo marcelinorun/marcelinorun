@@ -20,10 +20,20 @@ Com a **HL Tech** em Maceió, ofereço assistência técnica e serviços deliver
 * 🤝 **Modo Multiplayer (Colaboração):**
     * Buscando *quests* que unam hardware e software.
     * Participando de desafios que solucionem problemas práticos.
-* 💬 **Conexão Direta (Comunicação):**
-    * [Seu LinkedIn] - Conecte-se comigo!
-    * [Instagram da HL Tech] - Siga a jornada da HL Tech!
-    * [Seu Link de Contato/WhatsApp] - Me chame para um "Game Chat"!
+
+---
+
+### 💬 Conexão Direta (Comunicação)
+
+<a href="https://www.instagram.com/marcelino.run" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram&s=48" alt="Instagram" />
+</a>
+
+<br>
+
+<a href="https://wa.me/5582994315020" target="_blank">
+  <img src="https://raw.githubusercontent.com/marcelinorun/marcelinorun/main/assets/whatsapp.svg" alt="WhatsApp" width="48px" height="48px" />
+</a>
 
 ---
 
