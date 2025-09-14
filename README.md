@@ -30,7 +30,7 @@ Com a **HL Tech** em Maceió, ofereço assistência técnica e serviços deliver
 ### 🎒 Minha Mochila de Ferramentas (Tech Stack)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcelinorun/marcelinorun/main/assets/skills.png" alt="Minhas Habilidades" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,py,php,mysql,git,github,vscode,react" alt="Minhas Habilidades" />
 </p>
 
 ---
