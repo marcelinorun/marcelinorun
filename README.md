@@ -1,53 +1,47 @@
-### Olá, eu sou o Marcelino! 👋
-
----
-
 <p align="center">
-  <a href="https://github.com/marcelinomoralis" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=marcelinomoralis&style=flat-square&color=blue" alt="Perfil do GitHub do Marcelino"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/marcelinomoralis/marcelinomoralis/main/assets/banner_marcelino_run.png" alt="Marcelino Run - TI, Vendedor e Estudante de Engenharia de Software" />
 </p>
 
----
-
-### 💻 Quem eu sou
-
-Eu sou o **Marcelino**, e estou construindo uma carreira sólida na tecnologia. Como técnico de informática e vendedor, eu já conectava pessoas e soluções. Agora, como estudante de Engenharia de Software e dono da **HL Tech**, estou aprofundando esses laços, construindo pontes entre o mundo físico e o digital para criar produtos e serviços de valor.
-
-* 🔭 Atualmente estou trabalhando em:
-    * Expandir a **HL Tech** em Maceió, focando em assistência técnica e serviços delivery.
-    * Projetos acadêmicos do 1º período de Engenharia de Software.
-* 🌱 Atualmente estou aprendendo:
-    * Estruturas de dados, algoritmos e as bases da programação, aprimorando meu pensamento lógico para o desenvolvimento de software.
-* 🤝 Busco colaborar em:
-    * Projetos que misturam hardware e software.
-    * Iniciativas que resolvam problemas práticos do dia a dia.
-* 💬 Como me encontrar:
-    * [Seu LinkedIn]
-    * [Instagram da HL Tech]
-    * [Outro link relevante, como seu WhatsApp para contato profissional]
+### Olá, Player! Eu sou o Marcelino! 👋
 
 ---
 
-### 🚀 Minhas Habilidades
+### 🎮 O Jogador por Trás do Código
+
+Com a **HL Tech** em Maceió, ofereço assistência técnica e serviços delivery. Minha jornada é uma busca contínua por conhecimento, misturando a prática do dia a dia com a teoria da Engenharia de Software. Enfrento desafios com dedicação e tenho a filosofia como guia, vendo em cada projeto uma oportunidade de crescimento.
+
+* 🚀 **Missão Atual:**
+    * Expandir a **HL Tech**, levando soluções tecnológicas e um atendimento de excelência.
+    * Conquistar novos *achievements* no 1º período de Engenharia de Software.
+* 🌱 **XP em Ganhos:**
+    * Adquirindo *skills* em estruturas de dados, algoritmos e as bases da programação.
+* 🤝 **Modo Multiplayer (Colaboração):**
+    * Buscando *quests* que unam hardware e software.
+    * Participando de desafios que solucionem problemas práticos.
+* 💬 **Conexão Direta (Comunicação):**
+    * [Seu LinkedIn] - Conecte-se comigo!
+    * [Instagram da HL Tech] - Siga a jornada da HL Tech!
+    * [Seu Link de Contato/WhatsApp] - Me chame para um "Game Chat"!
+
+---
+
+### 🎒 Minha Mochila de Ferramentas (Tech Stack)
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,php,git,github,vscode,react,java,c" alt="HTML, CSS, JavaScript, Python, PHP, Git, GitHub, VS Code, React, Java, C" />
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Status Report (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelinomoralis&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelinomoralis&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelinomoralis&theme=dracula" alt="Sequência de Contribuições" />
 </p>
 
 ---
 
-### ✨ Uma reflexão
+### ✨ Loading... Uma Reflexão
 
-A jornada do desenvolvimento de software, assim como a vida, é uma maratona, não um sprint. A cada linha de código, a cada projeto, construímos não apenas soluções digitais, mas também a nós mesmos. O importante é o progresso, não a perfeição.
+A jornada do desenvolvimento de software, assim como a vida, é uma maratona, não um sprint. A cada linha de código, a cada projeto, construímos não apenas soluções digitais, mas também a nós mesmos. O importante é o progresso, não a perfeição. **Game On!**
