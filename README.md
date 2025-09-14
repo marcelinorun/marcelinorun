@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcelinomoralis/marcelinomoralis/main/assets/banner_marcelino_run.png" alt="Marcelino Run - TI, Vendedor e Estudante de Engenharia de Software" />
+  <img src="https://raw.githubusercontent.com/marcelinorun/marcelinorun/main/assets/banner_marcelino_run.png" alt="Marcelino Run - TI, Vendedor e Estudante de Engenharia de Software" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcelinomoralis/marcelinomoralis/main/assets/profile_box.png" alt="O Jogador por Trás do Código" />
+  <img src="https://raw.githubusercontent.com/marcelinorun/marcelinorun/main/assets/profile_box.png" alt="O Jogador por Trás do Código" />
 </p>
 
 ### 🎮 O Jogador por Trás do Código
@@ -30,7 +30,7 @@ Com a **HL Tech** em Maceió, ofereço assistência técnica e serviços deliver
 ### 🎒 Minha Mochila de Ferramentas (Tech Stack)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcelinomoralis/marcelinomoralis/main/assets/skills.png" alt="Minhas Habilidades" />
+  <img src="https://raw.githubusercontent.com/marcelinorun/marcelinorun/main/assets/skills.png" alt="Minhas Habilidades" />
 </p>
 
 ---
@@ -38,8 +38,8 @@ Com a **HL Tech** em Maceió, ofereço assistência técnica e serviços deliver
 ### 📊 Status Report (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelinomoralis&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelinomoralis&theme=dracula" alt="Sequência de Contribuições" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelinorun&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelinorun&theme=dracula" alt="Sequência de Contribuições" />
 </p>
 
 ---
