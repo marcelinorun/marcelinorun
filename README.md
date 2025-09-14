@@ -25,15 +25,14 @@ Com a **HL Tech** em Maceió, ofereço assistência técnica e serviços deliver
 
 ### 💬 Conexão Direta (Comunicação)
 
-<a href="https://www.instagram.com/marcelino.run" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram&s=48" alt="Instagram" />
-</a>
-
-<br>
-
-<a href="https://wa.me/5582994315020" target="_blank">
-  <img src="https://raw.githubusercontent.com/marcelinorun/marcelinorun/main/assets/whatsapp.svg" alt="WhatsApp" style="width:60px; height:60px;" />
-</a>
+<p align="center">
+  <a href="https://www.instagram.com/marcelino.run" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&s=48" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/5582994315020" target="_blank">
+    <img src="https://raw.githubusercontent.com/marcelinorun/marcelinorun/main/assets/whatsapp.svg" alt="WhatsApp" style="width:48px; height:48px;" />
+  </a>
+</p>
 
 ---
 
