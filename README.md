@@ -32,7 +32,7 @@ Com a **HL Tech** em Maceió, ofereço assistência técnica e serviços deliver
 <br>
 
 <a href="https://wa.me/5582994315020" target="_blank">
-  <img src="https://raw.githubusercontent.com/marcelinorun/marcelinorun/main/assets/whatsapp.svg" alt="WhatsApp" style="width:48px; height:48px;" />
+  <img src="https://raw.githubusercontent.com/marcelinorun/marcelinorun/main/assets/whatsapp.svg" alt="WhatsApp" style="width:50px; height:50px;" />
 </a>
 
 ---
