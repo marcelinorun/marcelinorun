@@ -30,7 +30,7 @@ Com a **HL Tech** em Maceió, ofereço assistência técnica e serviços deliver
     <img src="https://skillicons.dev/icons?i=instagram&s=48" alt="Instagram" />
   </a>
   <a href="https://wa.me/5582994315020" target="_blank">
-    <img src="https://raw.githubusercontent.com/marcelinorun/marcelinorun/main/assets/whatsapp.svg" alt="WhatsApp" style="width:60px; height:60px;" />
+    <img src="https://raw.githubusercontent.com/marcelinorun/marcelinorun/main/assets/whatsapp.svg" alt="WhatsApp" style="width:55px; height:55px;" />
   </a>
 </p>
 
