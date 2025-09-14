@@ -2,9 +2,11 @@
   <img src="https://raw.githubusercontent.com/marcelinomoralis/marcelinomoralis/main/assets/banner_marcelino_run.png" alt="Marcelino Run - TI, Vendedor e Estudante de Engenharia de Software" />
 </p>
 
-### Olá, Player! Eu sou o Marcelino! 👋
-
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marcelinomoralis/marcelinomoralis/main/assets/profile_box.png" alt="O Jogador por Trás do Código" />
+</p>
 
 ### 🎮 O Jogador por Trás do Código
 
@@ -27,8 +29,8 @@ Com a **HL Tech** em Maceió, ofereço assistência técnica e serviços deliver
 
 ### 🎒 Minha Mochila de Ferramentas (Tech Stack)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,php,git,github,vscode,react,java,c" alt="HTML, CSS, JavaScript, Python, PHP, Git, GitHub, VS Code, React, Java, C" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marcelinomoralis/marcelinomoralis/main/assets/skills.png" alt="Minhas Habilidades" />
 </p>
 
 ---
