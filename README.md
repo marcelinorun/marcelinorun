@@ -1,58 +1,114 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcelinorun/marcelinorun/main/assets/banner_marcelino_run.png" alt="Marcelino Run - TI, Vendedor e Estudante de Engenharia de Software" />
+  <img src="https://raw.githubusercontent.com/marcelinorun/marcelinorun/main/assets/banner_marcelino_run.png" alt="Marcelino.run - Desenvolvedor Full-Stack e Infraestrutura" />
 </p>
 
----
+<h1 align="center">Marcelino Gustavo</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcelinorun/marcelinorun/main/assets/profile_box.png" alt="O Jogador por Trás do Código" />
+  Desenvolvedor full-stack, especialista em infraestrutura e fundador da <strong>HL Tech</strong>.
 </p>
-
-### 🎮 O Jogador por Trás do Código
-
-Com a **HL Tech** em Maceió, ofereço assistência técnica e serviços delivery. Minha jornada é uma busca contínua por conhecimento, misturando a prática do dia a dia com a teoria da Engenharia de Software. Enfrento desafios com dedicação e tenho a filosofia como guia, vendo em cada projeto uma oportunidade de crescimento.
-
-* 🚀 **Missão Atual:**
-    * Expandir a **HL Tech**, levando soluções tecnológicas e um atendimento de excelência.
-    * Conquistar novos *achievements* no 1º período de Engenharia de Software.
-* 🌱 **XP em Ganhos:**
-    * Adquirindo *skills* em estruturas de dados, algoritmos e as bases da programação.
-* 🤝 **Modo Multiplayer (Colaboração):**
-    * Buscando *quests* que unam hardware e software.
-    * Participando de desafios que solucionem problemas práticos.
-
----
-
-### 💬 Conexão Direta (Comunicação)
 
 <p align="center">
-  <a href="https://www.instagram.com/marcelino.run" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&s=48" alt="Instagram" />
-  </a>
-  <a href="https://wa.me/5582994315020" target="_blank">
-    <img src="https://raw.githubusercontent.com/marcelinorun/marcelinorun/main/assets/whatsapp.svg" alt="WhatsApp" style="width:55px; height:55px;" />
-  </a>
+  <a href="https://marcelino.run">Portfólio</a> ·
+  <a href="https://hltech.org">HL Tech</a> ·
+  <a href="https://www.instagram.com/marcelino.run">Instagram</a> ·
+  <a href="https://linkedin.com/in/marcelinorun">LinkedIn</a>
 </p>
 
 ---
 
-### 🎒 Minha Mochila de Ferramentas (Tech Stack)
+## Sobre
+
+Construo APIs, SaaS, painéis administrativos, automações, aplicativos e ambientes de deploy para negócios que precisam de software real funcionando com clareza.
+
+Minha atuação une desenvolvimento full-stack e infraestrutura: front-end, API, banco de dados, autenticação, integrações, logs, backups, Linux, Docker, Cloudflare e ambientes em Proxmox.
+
+Atualmente curso Engenharia de Software e lidero a HL Tech, com foco em transformar ideias e operações em sistemas organizados, escaláveis e fáceis de manter.
+
+---
+
+## Foco técnico
+
+- **Sistemas Web & SaaS:** painéis, áreas restritas, fluxos operacionais e regras de negócio.
+- **APIs & Integrações:** REST APIs, autenticação, webhooks, pagamentos, automações e dados organizados.
+- **Mobile/PWA:** aplicativos e interfaces responsivas conectadas a APIs reais.
+- **Infraestrutura & Deploy:** Linux, Docker, Cloudflare, Nginx/Apache, logs, backups e Proxmox.
+- **Sites & Landing Pages:** presença digital, SEO técnico, performance e conversão.
+
+---
+
+## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,py,php,mysql,git,github,vscode,react" alt="Minhas Habilidades" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,py,java,cs,mysql,docker,linux,nginx,cloudflare,git,github,vscode" alt="Stack técnica" />
 </p>
 
 ---
 
-### 📊 Status Report (GitHub Stats)
+## Projetos em destaque
+
+### Viral Tickets
+
+Sistema de ingressos com arquitetura modular, API centralizada, banco de dados isolado e infraestrutura própria para operação escalável.
+
+- Camadas: front cliente, admin, produtor, check-in, API, banco e infraestrutura.
+- Papel: arquitetura, back-end, integração e infraestrutura.
+- Stack: PHP, API REST, MariaDB e arquitetura modular.
+- Case: [marcelino.run/case-viral-tickets](https://marcelino.run/case-viral-tickets)
+
+### HL Tech
+
+Site institucional e ecossistema técnico para apresentar software, cloud, servidores, redes e consultoria com clareza comercial.
+
+- Papel: estratégia, conteúdo, front-end e deploy.
+- Stack: site institucional, UX/UI, infraestrutura e conversão.
+- Online: [hltech.org](https://hltech.org)
+
+### Anthony Acioly Nutri
+
+Site institucional premium para nutricionista clínico esportivo, com foco em autoridade, conversão e posicionamento profissional.
+
+- Papel: UI, front-end, SEO técnico e publicação.
+- Online: [anthonyaciolynutri.com](https://anthonyaciolynutri.com)
+
+### Espaço Saúde SDI
+
+Site institucional para clínica de estética e odontologia, com foco em credibilidade, serviços e geração de contatos.
+
+- Papel: front-end, conteúdo, SEO local e publicação.
+- Online: [espacosaudesdi.com](https://espacosaudesdi.com)
+
+### Japa Designer
+
+Portfólio institucional para serviços de design, identidade visual e materiais promocionais.
+
+- Papel: front-end, UI e publicação.
+- Online: [japadesigner.com](https://japadesigner.com)
+
+---
+
+## Operação
+
+Meu trabalho normalmente separa responsabilidades desde o início:
+
+- front-end e experiência do usuário;
+- API, autenticação e regras de negócio;
+- banco, storage e uploads;
+- deploy, DNS, SSL, logs, backups e manutenção;
+- documentação para continuidade técnica.
+
+---
+
+## Contato
+
+<p align="center">
+  <a href="https://marcelino.run/#contact">Iniciar projeto</a> ·
+  <a href="https://www.instagram.com/marcelino.run">Instagram</a> ·
+  <a href="https://wa.me/5582994315020">WhatsApp</a>
+</p>
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcelinorun&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelinorun&theme=dracula" alt="Sequência de Contribuições" />
 </p>
-
----
-
-### ✨ Loading... Uma Reflexão
-
-A jornada do desenvolvimento de software, assim como a vida, é uma maratona, não um sprint. A cada linha de código, a cada projeto, construímos não apenas soluções digitais, mas também a nós mesmos. O importante é o progresso, não a perfeição. **Game On!**
