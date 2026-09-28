@@ -27,19 +27,19 @@ O cliente encontra eventos e acessa seus ingressos. O produtor acompanha vendas 
 
 Minha atuação reúne **interfaces web, aplicativos, API, integrações, dados e infraestrutura**.
 
-<a href="https://github.com/marcelinorun/viral-tickets">
-  <img src="https://raw.githubusercontent.com/marcelinorun/viral-tickets/main/docs/images/produtor-dashboard.jpg" width="100%" alt="Painel do Produtor Viral Tickets em ambiente de demonstração, com navegação para vendas, compras, borderô, entradas e financeiro.">
+<a href="https://github.com/marcelinorun/viraltickets-showcase">
+  <img src="https://raw.githubusercontent.com/marcelinorun/viraltickets-showcase/main/docs/images/produtor-dashboard.jpg" width="100%" alt="Painel do Produtor Viral Tickets em ambiente de demonstração, com navegação para vendas, compras, borderô, entradas e financeiro.">
 </a>
 
 | Plataforma web | Aplicativos | Base técnica |
 | --- | --- | --- |
 | Site, cliente, Admin, produtor, portaria e check-in | Cliente, Produtor e Check-in para Android e iOS | PHP, MariaDB, Flutter/Dart, API e integrações |
 
-[Explorar o código](https://github.com/marcelinorun/viral-tickets) · [Ver as telas](https://github.com/marcelinorun/viral-tickets/blob/main/docs/telas.md) · [Entender a arquitetura](https://github.com/marcelinorun/viral-tickets/blob/main/docs/arquitetura.md)
+[Conhecer o projeto](https://github.com/marcelinorun/viraltickets-showcase) · [Ver as telas](https://github.com/marcelinorun/viraltickets-showcase/blob/main/docs/telas.md) · [Entender a arquitetura](https://github.com/marcelinorun/viraltickets-showcase/blob/main/docs/arquitetura.md)
 
 App Cliente: [App Store](https://apps.apple.com/br/app/viral-tickets/id6807254590) · [Google Play](https://play.google.com/store/apps/details?id=br.com.viraltickets.viral_tickets_cliente)
 
-<sub>As telas da documentação usam dados de demonstração. Credenciais, dados pessoais e arquivos de assinatura não são publicados.</sub>
+<sub>Showcase público com estudo de caso e telas de demonstração. O código-fonte e os dados da plataforma permanecem privados.</sub>
 
 ## Outros trabalhos
 
