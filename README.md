@@ -19,27 +19,43 @@ Crio sites, aplicativos e sistemas que conectam a experiência do cliente à ope
 | Levar seu produto para o celular | Aplicativos Android e iOS conectados às regras e aos dados do negócio. |
 | Integrar serviços e colocar o projeto no ar | APIs, pagamentos, notificações, banco de dados, publicação e infraestrutura. |
 
-## Projeto em destaque · Viral Tickets
+## Case em destaque · Viral Tickets
 
-**Uma plataforma que conecta a venda do ingresso à entrada no evento.**
+<a href="https://github.com/marcelinorun/viraltickets-showcase">
+  <img src="https://raw.githubusercontent.com/marcelinorun/viraltickets-showcase/main/assets/cover.svg" width="100%" alt="Viral Tickets — showcase do produto desenvolvido por Marcelino.run, da descoberta do evento à entrada do público.">
+</a>
+
+**Do evento descoberto ao ingresso validado: web, aplicativos e operação conectados.**
 
 O cliente encontra eventos e acessa seus ingressos. O produtor acompanha vendas e operação. A administração gerencia a plataforma, enquanto a equipe de entrada valida o acesso do público.
 
 Minha atuação reúne **interfaces web, aplicativos, API, integrações, dados e infraestrutura**.
 
+O **showcase público** apresenta o que desenvolvi, as decisões de experiência e **43 capturas organizadas por público**. O código-fonte, o banco e as configurações da plataforma permanecem privados.
+
+| Conheça o trabalho | O que você encontra |
+| --- | --- |
+| [Estudo de caso](https://github.com/marcelinorun/viraltickets-showcase/blob/main/docs/estudo-de-caso.md) | Contexto do produto, minha atuação e decisões de interface. |
+| [Galeria com 43 telas](https://github.com/marcelinorun/viraltickets-showcase/blob/main/docs/telas.md) | Cliente, Produtor, Admin, Check-in, Portaria e site público. |
+| [Visão técnica](https://github.com/marcelinorun/viraltickets-showcase/blob/main/docs/arquitetura.md) | Como web, apps, API e dados se conectam, em alto nível. |
+| [Aplicativos](https://github.com/marcelinorun/viraltickets-showcase/blob/main/docs/aplicativos.md) | O papel dos apps Cliente, Produtor e Check-in. |
+
+**[Explorar o showcase](https://github.com/marcelinorun/viraltickets-showcase)** · **[Ler o estudo de caso](https://github.com/marcelinorun/viraltickets-showcase/blob/main/docs/estudo-de-caso.md)**
+
+<details>
+<summary>Ver uma prévia do painel do produtor</summary>
+
 <a href="https://github.com/marcelinorun/viraltickets-showcase">
   <img src="https://raw.githubusercontent.com/marcelinorun/viraltickets-showcase/main/docs/images/produtor-dashboard.jpg" width="100%" alt="Painel do Produtor Viral Tickets em ambiente de demonstração, com navegação para vendas, compras, borderô, entradas e financeiro.">
 </a>
 
-| Plataforma web | Aplicativos | Base técnica |
-| --- | --- | --- |
-| Site, cliente, Admin, produtor, portaria e check-in | Cliente, Produtor e Check-in para Android e iOS | PHP, MariaDB, Flutter/Dart, API e integrações |
+<sub>Template renderizado localmente, sem dados de operação. As demais capturas e seus contextos estão na galeria.</sub>
 
-[Conhecer o projeto](https://github.com/marcelinorun/viraltickets-showcase) · [Ver as telas](https://github.com/marcelinorun/viraltickets-showcase/blob/main/docs/telas.md) · [Entender a arquitetura](https://github.com/marcelinorun/viraltickets-showcase/blob/main/docs/arquitetura.md)
+</details>
 
-App Cliente: [App Store](https://apps.apple.com/br/app/viral-tickets/id6807254590) · [Google Play](https://play.google.com/store/apps/details?id=br.com.viraltickets.viral_tickets_cliente)
+**App Cliente:** [Baixar na App Store](https://apps.apple.com/br/app/viral-tickets/id6807254590) · [Baixar no Google Play](https://play.google.com/store/apps/details?id=br.com.viraltickets.viral_tickets_cliente)
 
-<sub>Showcase público com estudo de caso e telas de demonstração. O código-fonte e os dados da plataforma permanecem privados.</sub>
+<sub>As capturas de demonstração e teste estão identificadas no showcase. Seus valores e indicadores não representam resultados comerciais.</sub>
 
 ## Outros trabalhos
 
@@ -70,6 +86,8 @@ App Cliente: [App Store](https://apps.apple.com/br/app/viral-tickets/id680725459
 Escolho a base técnica a partir do que o produto precisa, das integrações e da manutenção esperada.
 
 ## Atividade no GitHub
+
+Os cards mostram minha atividade e as linguagens nos repositórios públicos. Projetos privados, como a implementação do Viral Tickets, também fazem parte do meu trabalho e não estão representados integralmente aqui.
 
 <p align="center">
   <a href="https://github.com/marcelinorun?tab=overview">
