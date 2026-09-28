@@ -69,6 +69,19 @@ App Cliente: [App Store](https://apps.apple.com/br/app/viral-tickets/id680725459
 
 Escolho a base técnica a partir do que o produto precisa, das integrações e da manutenção esperada.
 
+## Atividade no GitHub
+
+<p align="center">
+  <a href="https://github.com/marcelinorun?tab=overview">
+    <img src="https://github-stats-extended.vercel.app/api?username=marcelinorun&amp;locale=pt-br&amp;bg_color=141024&amp;title_color=B99BFF&amp;text_color=D6CCE8&amp;icon_color=9B79FF&amp;border_color=35244D&amp;border_radius=16&amp;card_width=420&amp;show_icons=true&amp;hide_rank=true&amp;hide=stars%2Cprs%2Cissues&amp;contribs_include_own_repos=true&amp;line_height=45&amp;custom_title=Commits%20e%20contribui%C3%A7%C3%B5es" width="400" alt="Estatísticas públicas de Marcelino: commits e repositórios com contribuições no último ano.">
+  </a>
+  <a href="https://github.com/marcelinorun?tab=repositories">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=marcelinorun&amp;locale=pt-br&amp;bg_color=141024&amp;title_color=B99BFF&amp;text_color=D6CCE8&amp;icon_color=9B79FF&amp;border_color=35244D&amp;border_radius=16&amp;card_width=420&amp;layout=compact&amp;langs_count=6&amp;custom_title=Linguagens%20nos%20projetos" width="400" alt="Distribuição das linguagens no código dos repositórios públicos de Marcelino.">
+  </a>
+</p>
+
+<sub>Dados públicos do GitHub. As linguagens representam a distribuição do código nos repositórios. Cards por <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a>, com atualização sujeita ao cache do serviço.</sub>
+
 ---
 
 ### Vamos tirar seu projeto do papel?
