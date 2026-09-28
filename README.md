@@ -1,114 +1,80 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcelinorun/marcelinorun/main/assets/banner_marcelino_run.png" alt="Marcelino.run - Desenvolvedor Full-Stack e Infraestrutura" />
+  <img src="assets/profile-header.svg" width="100%" alt="Marcelino.run — Sites, apps e sistemas para o seu negócio. Desenvolvimento full-stack e infraestrutura.">
 </p>
 
-<h1 align="center">Marcelino Gustavo</h1>
+# Marcelino Gustavo
 
-<p align="center">
-  Desenvolvedor full-stack, especialista em infraestrutura e fundador da <strong>HL Tech</strong>.
-</p>
+**Desenvolvedor full-stack · Aplicativos · Infraestrutura**
 
-<p align="center">
-  <a href="https://marcelino.run">Portfólio</a> ·
-  <a href="https://hltech.org">HL Tech</a> ·
-  <a href="https://www.instagram.com/marcelino.run">Instagram</a> ·
-  <a href="https://linkedin.com/in/marcelinorun">LinkedIn</a>
-</p>
+Crio sites, aplicativos e sistemas que conectam a experiência do cliente à operação do negócio. Meu trabalho vai da interface às APIs, integrações, banco de dados e infraestrutura que mantêm o produto funcionando.
 
----
+**[Conheça meu trabalho](https://marcelino.run)** · **[Solicitar uma proposta](https://marcelino.run/#contact)** · [LinkedIn](https://linkedin.com/in/marcelinorun) · [Instagram](https://instagram.com/marcelino.run)
 
-## Sobre
+## O que posso construir para você
 
-Construo APIs, SaaS, painéis administrativos, automações, aplicativos e ambientes de deploy para negócios que precisam de software real funcionando com clareza.
+| Seu objetivo | Minha entrega |
+| --- | --- |
+| Apresentar seu negócio e facilitar o contato | Sites e landing pages responsivos, com conteúdo organizado e navegação clara. |
+| Organizar processos e atender melhor | Sistemas web, painéis administrativos, áreas de clientes e ferramentas de gestão. |
+| Levar seu produto para o celular | Aplicativos Android e iOS conectados às regras e aos dados do negócio. |
+| Integrar serviços e colocar o projeto no ar | APIs, pagamentos, notificações, banco de dados, publicação e infraestrutura. |
 
-Minha atuação une desenvolvimento full-stack e infraestrutura: front-end, API, banco de dados, autenticação, integrações, logs, backups, Linux, Docker, Cloudflare e ambientes em Proxmox.
+## Projeto em destaque · Viral Tickets
 
-Atualmente curso Engenharia de Software e lidero a HL Tech, com foco em transformar ideias e operações em sistemas organizados, escaláveis e fáceis de manter.
+**Uma plataforma que conecta a venda do ingresso à entrada no evento.**
 
----
+O cliente encontra eventos e acessa seus ingressos. O produtor acompanha vendas e operação. A administração gerencia a plataforma, enquanto a equipe de entrada valida o acesso do público.
 
-## Foco técnico
+Minha atuação reúne **interfaces web, aplicativos, API, integrações, dados e infraestrutura**.
 
-- **Sistemas Web & SaaS:** painéis, áreas restritas, fluxos operacionais e regras de negócio.
-- **APIs & Integrações:** REST APIs, autenticação, webhooks, pagamentos, automações e dados organizados.
-- **Mobile/PWA:** aplicativos e interfaces responsivas conectadas a APIs reais.
-- **Infraestrutura & Deploy:** Linux, Docker, Cloudflare, Nginx/Apache, logs, backups e Proxmox.
-- **Sites & Landing Pages:** presença digital, SEO técnico, performance e conversão.
+<a href="https://github.com/marcelinorun/viral-tickets">
+  <img src="https://raw.githubusercontent.com/marcelinorun/viral-tickets/main/docs/images/produtor-dashboard.jpg" width="100%" alt="Painel do Produtor Viral Tickets em ambiente de demonstração, com navegação para vendas, compras, borderô, entradas e financeiro.">
+</a>
 
----
+| Plataforma web | Aplicativos | Base técnica |
+| --- | --- | --- |
+| Site, cliente, Admin, produtor, portaria e check-in | Cliente, Produtor e Check-in para Android e iOS | PHP, MariaDB, Flutter/Dart, API e integrações |
 
-## Stack
+[Explorar o código](https://github.com/marcelinorun/viral-tickets) · [Ver as telas](https://github.com/marcelinorun/viral-tickets/blob/main/docs/telas.md) · [Entender a arquitetura](https://github.com/marcelinorun/viral-tickets/blob/main/docs/arquitetura.md)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,py,java,cs,mysql,docker,linux,nginx,cloudflare,git,github,vscode" alt="Stack técnica" />
-</p>
+App Cliente: [App Store](https://apps.apple.com/br/app/viral-tickets/id6807254590) · [Google Play](https://play.google.com/store/apps/details?id=br.com.viraltickets.viral_tickets_cliente)
 
----
+<sub>As telas da documentação usam dados de demonstração. Credenciais, dados pessoais e arquivos de assinatura não são publicados.</sub>
 
-## Projetos em destaque
+## Outros trabalhos
 
-### Viral Tickets
+| Projeto | O que desenvolvi | Conhecer |
+| --- | --- | --- |
+| Portal de gestão | Interface e API para clientes, ordens de serviço, equipe e financeiro. | [Frontend](https://github.com/marcelinorun/portal-saas-frontend) · [API](https://github.com/marcelinorun/portal-saas-api) |
+| Anthony Acioly Nutri | Site profissional com apresentação dos serviços, interface e SEO técnico. | [Site](https://anthonyaciolynutri.com) |
+| Espaço Saúde SDI | Site para apresentar a clínica, seus serviços e canais de contato. | [Site](https://espacosaudesdi.com) |
+| Japa Designer | Portfólio para serviços de design e identidade visual. | [Site](https://japadesigner.com) |
 
-Sistema de ingressos com arquitetura modular, API centralizada, banco de dados isolado e infraestrutura própria para operação escalável.
+## Como trabalho
 
-- Camadas: front cliente, admin, produtor, check-in, API, banco e infraestrutura.
-- Papel: arquitetura, back-end, integração e infraestrutura.
-- Stack: PHP, API REST, MariaDB e arquitetura modular.
-- Case: [marcelino.run/case-viral-tickets](https://marcelino.run/case-viral-tickets)
+1. **Entendo o negócio.** Alinhamos o público, o problema e o que o projeto precisa resolver.
+2. **Organizo a solução.** Defino as telas, os fluxos e a estrutura técnica.
+3. **Desenvolvo e valido.** Conecto interface, regras e integrações, com testes do comportamento esperado.
+4. **Preparo a entrega.** Cuido da publicação, configuração e documentação para dar continuidade ao projeto.
 
-### HL Tech
+## Tecnologias que uso
 
-Site institucional e ecossistema técnico para apresentar software, cloud, servidores, redes e consultoria com clareza comercial.
+| Área | Ferramentas |
+| --- | --- |
+| Web | HTML, CSS, JavaScript e PHP |
+| Mobile | Flutter e Dart |
+| APIs e dados | PHP, Node.js, Express, REST, MariaDB e MySQL |
+| Infraestrutura | Linux, Docker, Proxmox, Cloudflare, Nginx e Apache |
+| Entrega | Git, GitHub, configuração de ambientes, logs e backups |
 
-- Papel: estratégia, conteúdo, front-end e deploy.
-- Stack: site institucional, UX/UI, infraestrutura e conversão.
-- Online: [hltech.org](https://hltech.org)
-
-### Anthony Acioly Nutri
-
-Site institucional premium para nutricionista clínico esportivo, com foco em autoridade, conversão e posicionamento profissional.
-
-- Papel: UI, front-end, SEO técnico e publicação.
-- Online: [anthonyaciolynutri.com](https://anthonyaciolynutri.com)
-
-### Espaço Saúde SDI
-
-Site institucional para clínica de estética e odontologia, com foco em credibilidade, serviços e geração de contatos.
-
-- Papel: front-end, conteúdo, SEO local e publicação.
-- Online: [espacosaudesdi.com](https://espacosaudesdi.com)
-
-### Japa Designer
-
-Portfólio institucional para serviços de design, identidade visual e materiais promocionais.
-
-- Papel: front-end, UI e publicação.
-- Online: [japadesigner.com](https://japadesigner.com)
+Escolho a base técnica a partir do que o produto precisa, das integrações e da manutenção esperada.
 
 ---
 
-## Operação
+### Vamos tirar seu projeto do papel?
 
-Meu trabalho normalmente separa responsabilidades desde o início:
+Conte o que sua empresa faz e o que você quer melhorar. A partir disso, alinhamos o escopo e os próximos passos.
 
-- front-end e experiência do usuário;
-- API, autenticação e regras de negócio;
-- banco, storage e uploads;
-- deploy, DNS, SSL, logs, backups e manutenção;
-- documentação para continuidade técnica.
+**[Solicitar uma proposta](https://marcelino.run/#contact)** · [Enviar um email](mailto:marcelino.rundev@gmail.com)
 
----
-
-## Contato
-
-<p align="center">
-  <a href="https://marcelino.run/#contact">Iniciar projeto</a> ·
-  <a href="https://www.instagram.com/marcelino.run">Instagram</a> ·
-  <a href="https://wa.me/5582994315020">WhatsApp</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelinorun&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" />
-</p>
+<sub>Maceió, Alagoas · Brasil</sub>
